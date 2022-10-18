@@ -1,0 +1,15 @@
+N:\ШАГ РПО\C#\Max_v.2\bin\Debug\net6.0\Max_v.2.exe
+N:\ШАГ РПО\C#\Max_v.2\bin\Debug\net6.0\Max_v.2.deps.json
+N:\ШАГ РПО\C#\Max_v.2\bin\Debug\net6.0\Max_v.2.runtimeconfig.json
+N:\ШАГ РПО\C#\Max_v.2\bin\Debug\net6.0\Max_v.2.dll
+N:\ШАГ РПО\C#\Max_v.2\bin\Debug\net6.0\Max_v.2.pdb
+N:\ШАГ РПО\C#\Max_v.2\obj\Debug\net6.0\Max_v.2.csproj.AssemblyReference.cache
+N:\ШАГ РПО\C#\Max_v.2\obj\Debug\net6.0\Max_v.2.GeneratedMSBuildEditorConfig.editorconfig
+N:\ШАГ РПО\C#\Max_v.2\obj\Debug\net6.0\Max_v.2.AssemblyInfoInputs.cache
+N:\ШАГ РПО\C#\Max_v.2\obj\Debug\net6.0\Max_v.2.AssemblyInfo.cs
+N:\ШАГ РПО\C#\Max_v.2\obj\Debug\net6.0\Max_v.2.csproj.CoreCompileInputs.cache
+N:\ШАГ РПО\C#\Max_v.2\obj\Debug\net6.0\Max_v.2.dll
+N:\ШАГ РПО\C#\Max_v.2\obj\Debug\net6.0\refint\Max_v.2.dll
+N:\ШАГ РПО\C#\Max_v.2\obj\Debug\net6.0\Max_v.2.pdb
+N:\ШАГ РПО\C#\Max_v.2\obj\Debug\net6.0\Max_v.2.genruntimeconfig.cache
+N:\ШАГ РПО\C#\Max_v.2\obj\Debug\net6.0\ref\Max_v.2.dll
